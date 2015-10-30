@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contents>
+    <Owners>
+        <Owner>
+            <Name>1．わたし</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2．わたしたち</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>3．あなた</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>4．あのひと 			あの人 \n （あのかた）			あの方</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>5．みなさん	皆さん</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>6．～さん</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>7．～ちゃん</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>8．～くん \n	～君</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>9．～じん \n	～人</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>10．せんせい			先生</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>11．きょうし	教師</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>12．がくせい	学生</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>13．かいしゃいん	会社員</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>14．しゃいん	社員</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>15．ぎんこういん	銀行員</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>16．いしゃ	医者</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>17．けんきゅうしゃ	研究者</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>18．エンジニア</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>19．だいがく	大学</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>20．びょういん	病院</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>21．でんき	電気</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>22．だれ（どなた）</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>23．…さい	…歳</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>24.なんさい			何歳 \n （おいくつ）</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>25.はい</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>26.いいえ</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>27.しつれいですが		失礼ですが</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>28.おなまえは？		お名前は？</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>29.はじめまして。		初めまして。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>30.どうぞ　よろしく　「おねがいします」。 \n どうぞ　よろしく　　[お願いします]。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>31.こちら　～さんです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>32.～から　きました。 \n ～から　来ました。 \n アメリカ \n イギリス  \n インド \n インドネシア  \n タイ  \n ドイツ  \n フランス  \n  ブラジル  \n  さくら／ \n  IMC/ パワ―／ブラジルエア</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>AKC</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>神戸病院</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>文型</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>1.わたしは　マイク。ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2．サントスさんは　じゃ　ありません。 \n  （では）</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>3．ミラーさんは　ですか。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４．サントスさんも　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>例文</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１．［あなたは］　マイク･ミラーさんですか。 \n …はい、［わたしは］　マイク･ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２．ミラーさんは　ですか。 \n …いいえ、［わたしは］　じゃ　ありません。 \n 会社員です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３．ワンさんは　エンジニアですか。 \n　…いいえ、ワンさんは　エンジニアじゃ　ありません。 \n 医者です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４．あの　方は　どなたですか。 \n …ワットさんです。　さくらの　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>５．テレサちゃんは　何歳ですか。 \n 　…９歳です。 \n 会話</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>めまして</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	:　おはよう　ございます。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	:　おはよう　ございます。 \n  さん、こちらは　マイク･ミラーさんです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	ー:　めまして。 \n マイク･ミラーです。 \n アメリカから　ました。\n どうぞ　よろしく。 \n ：　けい子です。 \n どうぞ　よろしく。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>練習　Ａ</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>1.わたしは	マイク。ミラーです。\n かいしゃいん</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2. わたしは	カール。シュミット　じゃ　ありません \n エンジニア</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>3.あの	人（方）は　きむらさん　	ですか。 \n マリアさん \n だれ　（どなた）</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>4.サントスさんは	ブラジルです。 \n マリアさん　　も　ブラジルです。 \n あの人</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>5.ミラーさんは　ＩＭＣ 　　　の　　しゃいんです。 \n カリナさん	ふじだいがく　　　　がくせいです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>6. テレサちゃんは　　9さいです。 \n たろうくん　　　　８さい \n なんさい（おいくつ）。。。か。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>練習　Ｂ</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>1.例：　ミラーさんは　アメリカです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2.例：　ミラーさんは　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>3. 例：　ミラーさん。　　ミラーさんは　じゃ　\n ありません \n １）山田さん。エンジニア \n ２）ワットさん。。 \n ３）タワポンさん。 \n ４）シュミットさん。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>4. 例：ミラーさん。アメリカ　ミラーさんは　アメリカ \n です。 \n 。。。はい、アメリカです。 \n 例：ミラーさん。医者　ミラーさんは　ですか。 \n 。。。いいえ、じゃありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１）山田さん。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）ワットさん。フランス。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）タワポンさん。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４）シュミットさん。エンジニア</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>5.例：ミラーさんは　です。グプタさんも　です。 \n はい、グプタさんも　です。 \n 例：ミラーさんは　アメリカです。　グプタさんも　アメリカですか。 \n いいえ、グプタさんは　アメリカじゃ　ありません。 \n １）山田さんは　です。イーサンもですか。 \n ２）ワットさんは　です。ワンさんもですか。 \n ３）タワポンさんは　です。カリナさんも　ですか。 /n ４）シュミットさんは　ドイツです。サントスさんも　ドイツですか。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>6.例：　あの　は　どなたですか。 \n 。。。グプタさんです。ＩＭＣの　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>練習　Ｃ</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>1.Ａ：失礼ですが、おは？</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Ｂ：	イーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Ａ：　	リーさんですか。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Ｂ：	いいえ、イーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name></Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１）　サントス \n サンタス</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）　ワット \n 	アット</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）　タワポン \n 	タナポン</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２．Ａ：	めまして。　マイク・ミラーです。\n アメリカから　ました。　どうぞ　よろしく。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>　　Ｂ：　	です。　どうぞ　よろしく。 \n １）　ホセ・サントス \n ブラジル \n ２）　カリナ \n  インドネシア \n ３）　ワン</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３．Ａ：	さん、こちらは　マイク・ミラーさんです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Ｂ：　	おはよう　ございます。　マイク・ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>ＩＭＣの　です。　どうぞ　よろしく　おします。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	１）　ホセ・サントス \n ブラジルエアーの　</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）	ジョン・ワット \n さくら大学の　</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）　カール・シュミッ \n パワーの　エンジニア</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>null</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１．例：　	いいえ、［わたしは］　じゃ　ありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１）。。。例：いいえ、わたしは　サントスではありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）例：マイク。ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）。。。例：28です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４）。。。例：はい、アメリカです</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>５）。。。例：いいえ、エンジニアじゃありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2.例：</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>3.例1：（ｘ）　　　例2：(Ｏ)</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>4.例：あなたは　()ですか。\n ．．．．はい、です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１）あなたは(ミラーさん)ですか。\n 。。。はい、わたしはミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）ミラーさんは　（アメリカ）ですか \n 。。。はい、アメリカです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）ワットさんも（アメリカ）ですか。 \n 。。。いいえ、アメリカじゃありません・イギリス人です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４）あの　は　（どなた　（だれ）　）ですか。 \n 。。。サントスさんです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>５）テレサちゃんは　（　（おいくつ）　）　ですか。 \n 。。。9です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>5.例：わたし　（は）ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>１）ワンさん（は）です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）カリナさん　（は）　です　（か）。 \n 	…いいえ、じゃ　ありません</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>３）ミラーさんは　ＩＭＣ　（の）　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>４）	ミラーさんは　です。 \n サントスさん　（も）　会社員です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>６．	初めまして。 \n わたしは　（マイク・ミラー）です。 \n （アメリカ）　から　来ました。 \n どうぞ　よろしく。 \n 文法</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>名詞1は　名詞2です</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>1. 助詞　［は］\n 	①　わたしは　マイク・ミラーです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>２）　です \n ②　わたしは　エンジニアです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>2. 名詞１　は　名詞2じゃ　ありません</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>③　サントスさんは　じゃ　ありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>か （では）</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	１）　助詞　「か」</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>④　ミラーさんは　アメリカ人ですか。\n …　はい、アメリカ人です。 \n ⑤　ミラーさんは　先生ですか。 \n …　いいえ、先生じゃ　ありません。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>⑥　あの　方は　どなたですか。\n 	…〔あの　方は〕　ミラーさんです。\n 名詞も</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>⑦　ミラーさんは　会社員です。 \n グプタさんも　会社員です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>名詞1の　名詞2</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	⑧　ミラーさんは　ＩＭＣの　です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>６．　～さん</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>	⑨　あの　は　ミラーさんです。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>⑩　：　	ミラーさんは　ですか。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>ミラー：	いいえ、です。</Name>
+            <Age>http://developer.j-tec.com.vn/projects/android/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+
+    </Owners>
+</Contents>

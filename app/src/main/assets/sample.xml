@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contents>
+    <Owners>
+        <Owner>
+            <Name>Machine code</Name>
+            <Age>10 đoạn nhạc https://en.wikipedia.org/wiki/Computer#Machine_code</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>第1課</Name>
+            <Age>ことば</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/bai1.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Test chữ hai dòng</Name>
+            <Age>142 đoạn nhạc (Test local textview-html)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/bai2.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Test bai 1 o localhost 192.15</Name>
+            <Age>142 đoạn nhạc (Test local textview-html)</Age>
+            <EmailAddress>http://192.168.0.15/a/listmu/mo_online/bai1.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>No data</Name>
+            <Age>143 đoạn nhạc (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code3.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>No data</Name>
+            <Age>144 đoạn nhạc (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code4.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>No data</Name>
+            <Age>145 đoạn nhạc (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code5.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Input/output (I/O)</Name>
+            <Age>146 (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code6.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Networking and the Internet</Name>
+            <Age>146 (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code7.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Computer architecture paradigms</Name>
+            <Age>146 (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code8.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Unconventional computing</Name>
+            <Age>146 (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code9.xml</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Artificial intelligence</Name>
+            <Age>146 (no data)</Age>
+            <EmailAddress>http://developer.j-tec.com.vn/projects/android/listmu/mo/machine_code10.xml</EmailAddress>
+        </Owner>
+    </Owners>
+</Contents>

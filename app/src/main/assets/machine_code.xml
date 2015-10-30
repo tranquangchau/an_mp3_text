@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contents>
+    <Owners>
+        <Owner>
+            <Name>In most computers, individual instructions are stored as machine code with each instruction being given a unique number (its operation code or opcode for short)</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo1.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>The command to add two numbers together would have one opcode</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo2.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>the command to multiply them would have a different opcode, and so on</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo3.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>The simplest computers are able to perform any of a handful of different instructions; the more complex computers have several hundred to choose from, each with a unique numerical code</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo4.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Since the computer's memory is able to store numbers, it can also store the instruction codes</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo5.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>This leads to the important fact that entire programs (which are just lists of these instructions) can be represented as lists of numbers and can themselves be manipulated inside the computer in the same way as numeric data</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo6.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>The fundamental concept of storing programs in the computer's memory alongside the data they operate on is the crux of the von Neumann, or stored program[citation needed], architecture.</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo7.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>In some cases, a computer might store some or all of its program in memory that is kept separate from the data it operates on</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo8.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>This is called the Harvard architecture after the Harvard Mark I computer</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo9.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Modern von Neumann computers display some traits of the Harvard architecture in their designs, such as in CPU caches</Name>
+            <Age>http://192.168.0.15/a/listmu/mo/mo10.MP3</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+
+    </Owners>
+</Contents>

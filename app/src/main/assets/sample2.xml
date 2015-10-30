@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contents>
+    <Owners>
+        <Owner>
+            <Name>You can see each row have same icon If you want different icons or images for each row, you must need to create your own custom adapter. In next part B shows you how to achieve this</Name>
+            <Age>16 đoạn nhạc</Age>
+            <EmailAddress>joselito123@gmail.com</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Download Android Custom List with Same Image Source code</Name>
+            <Age>141 đoạn nhạc</Age>
+            <EmailAddress>noemi111@gmail.com1</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>How to Create Custom Adapter of Display Image and TextView in ListView</Name>
+            <Age>142 đoạn nhạc</Age>
+            <EmailAddress>noemi111@gmail.com2</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>For better understanding Create new Project and Follow this steps</Name>
+            <Age>143 đoạn nhạc</Age>
+            <EmailAddress>noemi111@gmail.com3</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Create an XML file in your res/layout folder and name it, for example, mylist.xml. (As previous Part)</Name>
+            <Age>144 đoạn nhạc</Age>
+            <EmailAddress>noemi111@gmail.com4</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>To display a ListView in your activity, you need to add the element to your UI, such as the activity_main.xml file</Name>
+            <Age>145 đoạn nhạc</Age>
+            <EmailAddress>noemi111@gmail.com5</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Add 8 images to the res/drawable-mdpi folder (see Figure ).</Name>
+            <Age>146</Age>
+            <EmailAddress>noemi111@gmail.com6</EmailAddress>
+        </Owner>
+        <Owner>
+            <Name>Nextttttt</Name>
+            <EmailAddress>noemi111@gmail.com6</EmailAddress>
+        </Owner>
+    </Owners>
+</Contents>

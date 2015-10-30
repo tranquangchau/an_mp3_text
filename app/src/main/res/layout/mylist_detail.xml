@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp"
+    android:text="TextView"
+    android:id="@+id/textView_detail"
+    android:singleLine="false"
+    android:scrollingCache="false"
+    android:textSize="18sp"
+    android:maxLines="100">
+</TextView>
